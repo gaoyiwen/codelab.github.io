@@ -1,4 +1,4 @@
-baseURL = 'https://csl-cqu.github.io/'
+baseURL = 'https://gaoyiwen.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Cyber Security Laboratory @ CQU'
+    title = 'CODE @ NJUST'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
